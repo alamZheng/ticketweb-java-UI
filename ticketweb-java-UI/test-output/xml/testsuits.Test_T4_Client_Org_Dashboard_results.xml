@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.862">
+  <properties />
+  
+  
+            <testcase name="VerifyTopEvents" time="2.869" classname="testsuits.Test_T4_Client_Org_Dashboard" />
+                <testcase name="VerifyTopAttractions" time="1.386" classname="testsuits.Test_T4_Client_Org_Dashboard" />
+                <testcase name="VerifyTopCustomer" time="1.705" classname="testsuits.Test_T4_Client_Org_Dashboard" />
+                <testcase name="VerifyTopMarketing" time="1.132" classname="testsuits.Test_T4_Client_Org_Dashboard" />
+                <testcase name="VerifyTopHome" time="2.017" classname="testsuits.Test_T4_Client_Org_Dashboard" />
+                <testcase name="VerifyTopSetup" time="1.406" classname="testsuits.Test_T4_Client_Org_Dashboard" />
+                <testcase name="VerifyTopItems" time="1.086" classname="testsuits.Test_T4_Client_Org_Dashboard" />
+                <testcase name="VerifyTopReports" time="5.261" classname="testsuits.Test_T4_Client_Org_Dashboard" />
+      
+</testsuite>

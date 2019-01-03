@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="27.917">
+  <properties />
+  
+  
+            <testcase name="Login_BasicUser" time="8.386" classname="testsuits.Test_login" />
+                <testcase name="Login_incorrect_PWD" time="4.197" classname="testsuits.Test_login" />
+                <testcase name="Login_ClientHighUser" time="5.646" classname="testsuits.Test_login" />
+                <testcase name="Login_incorrect_Username" time="3.561" classname="testsuits.Test_login" />
+                <testcase name="Login_MasterUser" time="6.127" classname="testsuits.Test_login" />
+      
+</testsuite>
